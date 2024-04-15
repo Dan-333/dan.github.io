@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Dan&#x27;s Space</title>
+    <link href="https://dan-333.github.io/dan.github.io/feed.xml" rel="self" />
+    <link href="https://dan-333.github.io/dan.github.io" />
+    <updated>2023-12-01T15:32:37+08:00</updated>
+    <author>
+        <name>Dan</name>
+    </author>
+    <id>https://dan-333.github.io/dan.github.io</id>
+
+    <entry>
+        <title>Web Design</title>
+        <author>
+            <name>Dan</name>
+        </author>
+        <link href="https://dan-333.github.io/dan.github.io/web-design.html"/>
+        <id>https://dan-333.github.io/dan.github.io/web-design.html</id>
+            <category term="标签一"/>
+
+        <updated>2023-10-26T16:42:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                    https://bestcovered.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://bestcovered.com" target="_blank" rel="noopener noreferrer">https://bestcovered.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brochure Design</title>
+        <author>
+            <name>Dan</name>
+        </author>
+        <link href="https://dan-333.github.io/dan.github.io/vcx.html"/>
+        <id>https://dan-333.github.io/dan.github.io/vcx.html</id>
+        <media:content url="https://dan-333.github.io/dan.github.io/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" medium="image" />
+
+        <updated>2023-10-26T11:22:17+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dan-333.github.io/dan.github.io/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" alt="" />
+                    test test test test test test test test test test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dan-333.github.io/dan.github.io/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" class="type:primaryImage" alt="" /></p>
+                <p>test test test test test test test test test test </p>
+<figure class="post__image"><img loading="lazy"  src="https://dan-333.github.io/dan.github.io/media/posts/1/Xuan-Chuan-Ce-2.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://dan-333.github.io/dan.github.io/media/posts/1/Xuan-Chuan-Ce-3.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan-333.github.io/dan.github.io/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
